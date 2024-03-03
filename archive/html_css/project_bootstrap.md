@@ -1,5 +1,5 @@
 ### Introduction
-In this project, you'll get a chance to try out Twitter's Bootstrap framework by building a site that actually uses it -- [Newsweek](http://www.newsweek.com/).
+In this project, you'll get a chance to try out X's Bootstrap framework by building a site that actually uses it -- [Newsweek](http://www.newsweek.com/).
 
 ### Assignment
 Note: As usual, ignore any ads, icons, and interactive elements (which use Javascript).  If you really want to grab icons, try taking a screenshot of them and making an image file out of that.
