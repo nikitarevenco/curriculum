@@ -7,7 +7,7 @@ This is a fantastic exercise because it allows you to build something meaningful
 
 ### Assignment
 
-Copy your favorite website as well as you can.  Pinterest, Facebook, Twitter... Just make sure it's got lots of interesting functionality.  You'll be integrating your full array of Rails and Javascript skills into this one.  This should prove to you that you now have all the tools you need to build a website just like the ones you use every day.
+Copy your favorite website as well as you can.  Pinterest, Facebook, X... Just make sure it's got lots of interesting functionality.  You'll be integrating your full array of Rails and Javascript skills into this one.  This should prove to you that you now have all the tools you need to build a website just like the ones you use every day.
 
 Of course, you can't copy every single feature and a lot of the user interface will be a bit clunkier, but you can get yourself 80% of the way there.  And that's darn impressive.
 
@@ -30,7 +30,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Axel's solution](https://github.com/afuh/pinstagram) - [View in browser](http://pinstagram.axelfuhrmann.com)
 * [Donald's solution](https://github.com/donaldali/odinbook "Odinbook on GitHub") - [View in browser](https://dna-odinbook.herokuapp.com/ "Odinbook on Heroku")
 * [David Chapman's solution](https://github.com/davidchappy/lesson-scheduler) - [View in browser](http://lesson-scheduler.herokuapp.com/)
-* [Eric Gonzalez solution](https://github.com/Twinpair/Acquaintion) - [View in browser (Twitter Clone)](https://acquaintion.herokuapp.com/)
+* [Eric Gonzalez solution](https://github.com/Twinpair/Acquaintion) - [View in browser (X Clone)](https://acquaintion.herokuapp.com/)
 
 
 ### Additional Resources
