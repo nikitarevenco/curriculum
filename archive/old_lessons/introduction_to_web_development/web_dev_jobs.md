@@ -1,7 +1,7 @@
 Hopefully by now you've got at least a vague idea what a web developer is supposed to do but examples speak louder than explanations when it comes to the question of "What is it like to actually **be** a developer?".
 
 ### Example: At an Established Tech Company
-The giant tech companies like Google, Facebook, Twitter, etc are the largest employers out there and they need 1000's of devs to help them get their products built.  They often have high hurdles for hiring but very good benefits and training programs to take you the next step of your learning journey.  The possible jobs cover a huge breadth of skillsets but you're often asked to focus on a particular area once you're on the team.  Established companies are often a good way to cut your teeth in the industry while being surrounded by smart people and willing mentors.
+The giant tech companies like Google, Facebook, X, etc are the largest employers out there and they need 1000's of devs to help them get their products built.  They often have high hurdles for hiring but very good benefits and training programs to take you the next step of your learning journey.  The possible jobs cover a huge breadth of skillsets but you're often asked to focus on a particular area once you're on the team.  Established companies are often a good way to cut your teeth in the industry while being surrounded by smart people and willing mentors.
 
 *Do you work as a developer at one of these companies or know someone who does?  We'd love to find out what is "A Day in the Life Of...".  Please [email us](mailto:curriculum@theodinproject.com) if we can do a quick interview about it and post it here!*
 
