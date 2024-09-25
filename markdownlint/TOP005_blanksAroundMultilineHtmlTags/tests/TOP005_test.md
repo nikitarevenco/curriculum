@@ -15,7 +15,6 @@ This section contains a general overview of topics that you will learn in this l
 Valid div due to each tag being surrounded by blank lines.
 
 </div>
-
 #### Custom section
 
 <div>Valid single-line div</div>
@@ -25,7 +24,7 @@ Valid div due to each tag being surrounded by blank lines.
 <div class="lesson-content__panel" markdown="1">
 The opening tag is invalid due to not being surrounded by blank lines.
 Until a blank line is encountered, if there are any unrelated linting errors, the vast majority of them will not be caught due to how `markdown-it` parses `html_block` tokens.
-
+e
 The closing tag is valid as it is surrounded by blank lines.
 
 </div>
