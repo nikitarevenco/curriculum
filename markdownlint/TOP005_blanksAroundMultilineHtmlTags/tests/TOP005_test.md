@@ -15,7 +15,6 @@ This section contains a general overview of topics that you will learn in this l
 Valid div due to each tag being surrounded by blank lines.
 
 </div>
-re-trigger 
 #### Custom section
 
 <div>Valid single-line div</div>
